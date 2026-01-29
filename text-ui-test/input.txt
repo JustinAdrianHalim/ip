@@ -1,3 +1,11 @@
+yes
+no
+todo
+blablA
+list
+event
+event /from
+deadline /by
 todo xyz
 deadline abc /by 12 Jan
 event def /from 12 jan /to 14 jan

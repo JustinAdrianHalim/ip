@@ -1,6 +1,22 @@
 Hello, I'm Lilith!
 Would you like a strawberry cake?
 --------------------------------------------------------------
+Okay, but you'll need to convince the oven that it is not a time machine!
+--------------------------------------------------------------
+Lilith is sad...
+--------------------------------------------------------------
+Hey! Fill in the task properly! 
+--------------------------------------------------------------
+Lilith cannot find the task type... 
+--------------------------------------------------------------
+You have not added any task yet.
+--------------------------------------------------------------
+Hey! Fill in the task properly! 
+--------------------------------------------------------------
+Please write the task properly! 'event <task name> /from <start time/date> /to <end time/date>'
+--------------------------------------------------------------
+Please write the task properly! 'deadline <task name> /by <end time/date>'
+--------------------------------------------------------------
 Got it. I've added this task:
 [T][ ] xyz
 --------------------------------------------------------------
