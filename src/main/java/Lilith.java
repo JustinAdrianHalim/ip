@@ -122,7 +122,7 @@ class Task{
             case Deadline:
                 return "[D][" + (status ? "X" : " ") + "] " + taskname + "(by: " + enddetail + ")";
             case Events:
-                return "[E][" + (status ? "X" : " ") + "] " + taskname + "(from: " + enddetail + " to: " + startdetail + ")";
+                return "[E][" + (status ? "X" : " ") + "] " + taskname + "(from: " + startdetail + " to: " + enddetail + ")";
         }
         return "[" + (status ? "X" : " ") + "] " + taskname;
     }
